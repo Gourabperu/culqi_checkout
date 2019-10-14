@@ -6,7 +6,7 @@
 
   Culqi.settings({
     title: 'Culqi Store',
-    currency: 'PEN',
+    currency: 'USD',
     description: 'Polo/remera Culqi lover',
     amount: 300
   });
