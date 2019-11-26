@@ -1,8 +1,8 @@
 
 
-
+<script>
   Culqi.publicKey = 'pk_test_8ALRMGmZESV7yN02';
-
+</script>
 
   Culqi.settings({
     title: 'Culqi Store',
