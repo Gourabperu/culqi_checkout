@@ -4,6 +4,7 @@
   Culqi.publicKey = ' pk_test_yNMkpLlchSkYZrbQ';
 
 
+
   Culqi.settings({
     title: 'Culqi Store',
     currency: 'PEN',
@@ -34,5 +35,4 @@ function culqi() {
         alert(Culqi.error.user_message);
     }
   };
-  
   
