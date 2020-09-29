@@ -1,7 +1,7 @@
 
 
 
-  Culqi.publicKey = 'pk_test_8ALRMGmZESV7yN02';
+  Culqi.publicKey = ' pk_test_yNMkpLlchSkYZrbQ';
 
 
   Culqi.settings({
