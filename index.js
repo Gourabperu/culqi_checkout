@@ -9,7 +9,8 @@
     title: 'Culqi Store',
     currency: 'PEN',
     description: 'Polo/remera Culqi lover',
-    amount: 500
+    amount: 500,
+    order: 'ord_live_0CjjdWhFpEAZlxlz'
   });
 
 
