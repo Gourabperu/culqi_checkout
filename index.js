@@ -10,7 +10,7 @@
     currency: 'PEN',
     description: 'Polo/remera Culqi lover',
     amount: 500,
-    order: 'ord_live_0CjjdWhFpEAZlxlz'
+    order:'ord_test_48dHkBcc1JU5IXAR'
   });
 
 
